@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'GTUKCDC',
     description: 'Tailored Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/AlasdairWHClark/kasm-registry/',
+    //listUrl: 'https://github.com/AlasdairWHClark/kasm-registry/',
     contactUrl: 'https://alasdairwhclark.github.io//kasm-registry/issues',
   },
   reactStrictMode: true,
