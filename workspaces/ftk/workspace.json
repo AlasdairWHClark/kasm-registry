@@ -1,7 +1,7 @@
 {
   "description": "Chrome FTK, is a free and open-source web browser.",
   "docker_registry": "https://ghcr.io/",
-  "image_src": "firefox.png",
+  "image_src": "FTK.png",
   "name": "alasdairclark/kasm01:latest",
   "run_config": {
     "security_opt": [
